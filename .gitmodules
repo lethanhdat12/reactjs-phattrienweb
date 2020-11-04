@@ -1,0 +1,3 @@
+[submodule "GitHub/hospitalManager"]
+	path = GitHub/hospitalManager
+	url = ../hospitalManager.git
