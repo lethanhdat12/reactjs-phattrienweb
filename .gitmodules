@@ -1,3 +1,6 @@
 [submodule "GitHub/hospitalManager"]
 	path = GitHub/hospitalManager
 	url = ../hospitalManager.git
+[submodule "demo_reactjs"]
+	path = demo_reactjs
+	url = ../../thanhmeo123/demo_reactjs
